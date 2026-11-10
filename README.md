@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-light.svg" alt="Vernal — 52 public GitHub contributions in 30 UTC days ending 2026-11-09." width="840">
+  <img src="assets/hero-light.svg" alt="Vernal — 52 public GitHub contributions in 30 UTC days ending 2026-11-10." width="840">
 </picture>
 
 **Selected work**

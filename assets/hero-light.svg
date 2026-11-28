@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="400" viewBox="0 0 840 400" role="img" aria-labelledby="title desc">
 <title id="title">Vernal · Digital Journal</title>
-<desc id="desc">A digital journal of code &amp; quiet discoveries. 58 public GitHub contributions over 30 UTC days, 2026-10-29 to 2026-11-27. 2026-10-29: 2; 2026-10-30: 3; 2026-10-31: 1; 2026-11-01: 0; 2026-11-02: 0; 2026-11-03: 0; 2026-11-04: 3; 2026-11-05: 6; 2026-11-06: 4; 2026-11-07: 3; 2026-11-08: 0; 2026-11-09: 0; 2026-11-10: 0; 2026-11-11: 0; 2026-11-12: 1; 2026-11-13: 0; 2026-11-14: 2; 2026-11-15: 4; 2026-11-16: 0; 2026-11-17: 2; 2026-11-18: 1; 2026-11-19: 0; 2026-11-20: 0; 2026-11-21: 9; 2026-11-22: 2; 2026-11-23: 5; 2026-11-24: 1; 2026-11-25: 2; 2026-11-26: 7; 2026-11-27: 0.</desc>
+<desc id="desc">A digital journal of code &amp; quiet discoveries. 62 public GitHub contributions over 30 UTC days, 2026-10-30 to 2026-11-28. 2026-10-30: 3; 2026-10-31: 1; 2026-11-01: 0; 2026-11-02: 0; 2026-11-03: 0; 2026-11-04: 3; 2026-11-05: 6; 2026-11-06: 4; 2026-11-07: 3; 2026-11-08: 0; 2026-11-09: 0; 2026-11-10: 0; 2026-11-11: 0; 2026-11-12: 1; 2026-11-13: 0; 2026-11-14: 2; 2026-11-15: 4; 2026-11-16: 0; 2026-11-17: 2; 2026-11-18: 1; 2026-11-19: 0; 2026-11-20: 0; 2026-11-21: 9; 2026-11-22: 2; 2026-11-23: 5; 2026-11-24: 1; 2026-11-25: 2; 2026-11-26: 8; 2026-11-27: 5; 2026-11-28: 0.</desc>
 <style>
 text{font-family:Segoe UI,Arial,sans-serif;fill:#172b43}
 .meta{font-size:11px;letter-spacing:2.5px;fill:#586b82}
@@ -16,10 +16,10 @@ text{font-family:Segoe UI,Arial,sans-serif;fill:#172b43}
 <text x="46" y="153" style="font-family:Georgia,serif;font-size:66px;letter-spacing:-2px">Vernal<tspan fill="#2c65b3">.</tspan></text>
 <text x="49" y="187" style="font-size:17px;fill:#586b82">A digital journal of code &amp; quiet discoveries.</text>
 <g fill="none" stroke="#dae4f1" stroke-width="1"><path d="M48 239H792 M48 277H792 M48 315H792"/></g>
-<path class="curve" d="M48.00 297.56 L73.66 289.33 L99.31 305.78 L124.97 314.00 L150.62 314.00 L176.28 314.00 L201.93 289.33 L227.59 264.67 L253.24 281.11 L278.90 289.33 L304.55 314.00 L330.21 314.00 L355.86 314.00 L381.52 314.00 L407.17 305.78 L432.83 314.00 L458.48 297.56 L484.14 281.11 L509.79 314.00 L535.45 297.56 L561.10 305.78 L586.76 314.00 L612.41 314.00 L638.07 240.00 L663.72 297.56 L689.38 272.89 L715.03 305.78 L740.69 297.56 L766.34 256.44 L792.00 314.00" fill="none" stroke="#2c65b3" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path class="curve" d="M48.00 289.33 L73.66 305.78 L99.31 314.00 L124.97 314.00 L150.62 314.00 L176.28 289.33 L201.93 264.67 L227.59 281.11 L253.24 289.33 L278.90 314.00 L304.55 314.00 L330.21 314.00 L355.86 314.00 L381.52 305.78 L407.17 314.00 L432.83 297.56 L458.48 281.11 L484.14 314.00 L509.79 297.56 L535.45 305.78 L561.10 314.00 L586.76 314.00 L612.41 240.00 L638.07 297.56 L663.72 272.89 L689.38 305.78 L715.03 297.56 L740.69 248.22 L766.34 272.89 L792.00 314.00" fill="none" stroke="#2c65b3" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="792" cy="314" r="3" fill="#2c65b3"/>
-<text x="48" y="335" class="note">2026-10-29</text>
-<text x="792" y="335" text-anchor="end" class="note">2026-11-27 · UTC</text>
+<text x="48" y="335" class="note">2026-10-30</text>
+<text x="792" y="335" text-anchor="end" class="note">2026-11-28 · UTC</text>
 <text x="48" y="377" class="meta">SMALL STEPS, QUIETLY COMPOUNDING.</text>
-<text x="792" y="377" text-anchor="end" class="note">58 public contributions / 30 days</text>
+<text x="792" y="377" text-anchor="end" class="note">62 public contributions / 30 days</text>
 </svg>
